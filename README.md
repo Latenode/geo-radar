@@ -244,6 +244,8 @@ The questions are the measurement. You have three ways to get them.
 
 **Option C - generate, then edit.** Treat the generated set as a draft.
 
+![The prompts sheet: one row per question, with category, locale, active flag and notes](./assets/prompts-sheet.webp)
+
 Whichever you pick:
 
 - **Read the set before the first real run.** A generator working from a homepage can invent a capability that does not exist. Set `active` to `FALSE` on anything wrong rather than deleting it - the history stays intact.
