@@ -49,7 +49,7 @@ Visibility and brand knowledge are kept apart on purpose. Mixing one branded que
 
 ![Weekly report](./assets/report-example.png)
 
-![Weekly report, continued: engines, competitor board and gap sources](./assets/report-sources.png)
+![Weekly report, continued: gap sources and recommended actions](./assets/report-sources.png)
 
 A weekly email: the headline number, a per-engine table with week-over-week movement, a bar chart of who the engines recommend, the list of sources citing competitors but not you, and four to six actions written against that data.
 
@@ -72,6 +72,8 @@ A Slack alert fires only when visibility drops past your threshold, so the chann
 ## How it works
 
 Two branches in one scenario.
+
+![The GEO Radar scenario: the weekly branch on top, the prompt generator below](./assets/scenario-overview.webp)
 
 **Main branch**, on a weekly schedule:
 
