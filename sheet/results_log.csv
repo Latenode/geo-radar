@@ -1,0 +1,1 @@
+brand_id,run_id,timestamp,prompt_id,engine,run_index,grounded,brand_mentioned,brand_position,brand_domain_cited,sentiment_score,confidence,competitors_found,citations,response_excerpt,category
