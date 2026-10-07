@@ -45,6 +45,63 @@ Visibility and brand knowledge are kept apart on purpose. Mixing one branded que
 
 ---
 
+## Why GEO Radar
+
+**Know exactly who AI recommends instead of you, and what to do about it, for a fraction of what Peec AI, Profound and Otterly.ai charge.**
+
+| | What you get |
+|---|---|
+| **A fraction of the price** | The cost is the model calls a run makes, so one brand across four engines starts around $14 a month. Peec AI starts around $95 and Profound around $99. [See the numbers](#what-it-costs-side-by-side). |
+| **You own the data and the method** | Every answer lands in your Google Sheet, row by row. Every metric is a formula you can read and change. No black-box score. |
+| **Pay for runs, not for tiers** | No per-prompt, per-model or per-project plans. Adding a brand adds its calls, not a new tier. |
+| **An action plan, not only a scoreboard** | Each report ends with four to six actions, each tied to a domain and a number from your own data. Competitor-owned domains are kept out of the pitch list. |
+| **Built for agencies** | One scenario, many brands. Each brand has its own competitors, engines, report recipient and Slack channel. The report is plain HTML you can restyle for a client. |
+| **AI and Google side by side** | The same questions are checked in classic Google, so the report shows where a brand ranks in one and is missing from the other. |
+| **Part of your automation stack** | It is a Latenode scenario. Send the numbers to a CRM, a warehouse or another scenario with one more node. |
+
+---
+
+## What it costs, side by side
+
+Prices per month, as listed by each vendor's plans.
+
+| Service | Plan | Price | What you get |
+|---|---|---|---|
+| **GEO Radar** | 1 brand, weekly | **about $14** in model calls | 32 questions, 4 engines |
+| **GEO Radar** | 5 brands, weekly | **about $70** in model calls | 32 questions each, 4 engines |
+| Peec AI | Starter | about $95 | 50 prompts, 3 engines, daily |
+| Peec AI | Pro | about $245 | more prompts and projects |
+| Peec AI | Advanced | about $495 | agency volume |
+| Profound | Starter | about $99 | ChatGPT only |
+| Profound | Growth | about $399 | more engines and prompts |
+| Otterly.ai | Lite | about $29 | 15 prompts |
+| Otterly.ai | Standard | about $189 | 100 prompts |
+| Otterly.ai | Premium | about $489 | 400 prompts |
+| Semrush AI Toolkit | per domain | about $99 | 25 prompts |
+
+**Same job, side by side:**
+
+| You want to track | GEO Radar | Closest alternative | You save |
+|---|---|---|---|
+| 1 brand, 4 engines | about **$14** | Peec AI Starter, about $95 | about **85%** |
+| 5 brands, 4 engines | about **$70** | Peec AI Advanced, about $495 | about **86%** |
+| 1 brand on every major engine | about **$14** | Profound Starter, about $99, ChatGPT only | about **86%** |
+
+Add a Latenode plan on top (the Start plan is about $19 a month) and the totals are still about **$33 against $95** for one brand and about **$89 against $495** for five. The more brands you run, the wider the gap, because these services charge per project and GEO Radar only charges for the calls it makes.
+
+Where the others win, honestly:
+
+- **Otterly.ai Lite at about $29** is cheaper than GEO Radar plus a Latenode plan if 15 prompts are enough for you.
+- **Daily tracking of many prompts.** One brand, 50 questions, 3 engines, daily costs GEO Radar about $124 in model calls, and it does not fit one execution. Peec AI Starter does that for about $95.
+
+How to read it:
+
+- **The comparison is not like for like.** The services above measure daily, GEO Radar weekly.
+- **GEO Radar figures** come from model calls observed on a test account, before answers were capped at 150 words, so they are an upper estimate. To estimate your own: brands x questions x engines x repeats x runs per month x about $0.027 per call.
+- **Competitor and Latenode plan prices** are taken from public pricing pages and reviews. They change often and the sources disagree with each other, so check each vendor's page before relying on them.
+
+---
+
 ## What comes out
 
 ![Weekly report](./assets/report-example.png)
@@ -66,6 +123,36 @@ openalternative.co cited in 9 answers, a directory where competitors appear
 ```
 
 A Slack alert fires only when visibility drops past your threshold, so the channel stays quiet in a normal week.
+
+---
+
+## How it compares
+
+The services compared below are Peec AI, Otterly.ai, Profound and Semrush AI Toolkit.
+
+✅ yes  ·  ➖ partly, or depends on the plan  ·  ❌ no
+
+| | GEO Radar | Peec AI, Otterly.ai, Profound |
+|---|:---:|:---:|
+| Runs in your own account, data in your own sheet | ✅ | ❌ |
+| Price follows usage | ✅ | ➖ tiers by prompts, models and projects |
+| Change the method, the questions, the metrics and the report | ✅ | ➖ |
+| Action plan built from your own gap sources | ✅ | ➖ several are monitoring only |
+| Classic Google ranking next to AI answers | ✅ | ➖ varies by product |
+| Many brands, each with its own recipient | ✅ | ➖ agency plans |
+| Dashboard with charts and filters | ❌ sheet and email | ✅ |
+| Daily tracking at high volume | ❌ weekly by default | ✅ |
+| Google AI Overviews and AI Mode | ❌ | ➖ most track them |
+| Ready in minutes | ❌ about an hour | ✅ |
+
+### Who it is for
+
+| Choose GEO Radar if | Choose Peec AI, Otterly.ai or Profound if |
+|---|---|
+| You want to own the data and adapt the method | You want ready dashboards and a fixed method is fine |
+| You run several brands or clients and want cost to follow usage | You need daily tracking of many prompts |
+| You already work in Latenode and want this next to your other scenarios | You want to start in minutes with no setup |
+| You want the plan of action, not only the score | You need Google AI Overviews and AI Mode coverage |
 
 ---
 
